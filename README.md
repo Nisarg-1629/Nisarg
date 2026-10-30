@@ -1,4 +1,4 @@
-<h2><b>Project 4 read me file\n i used chat gpt about 30% to 40%</b></h2>
+<h2><b>Project 4 read me file<br> i used chat gpt about 30% to 40%</b></h2>
 
 <img width="766" height="806" alt="Screenshot 2026-10-30 182031" src="https://github.com/user-attachments/assets/31565dcd-9bf0-46d5-9407-9958f4887280" />
 <img width="627" height="378" alt="Screenshot 2026-10-30 182051" src="https://github.com/user-attachments/assets/1bc943be-3556-492d-b569-635faa0c0f92" />
